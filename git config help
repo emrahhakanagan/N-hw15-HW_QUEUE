@@ -1,0 +1,7 @@
+user.name=emrahhakanagan
+user.email=emrahhakanagan@gmail.com
+user.mail=emrahhakanagan@gmail.com
+core.autocrlf=true
+core.safecrlf=warn
+core.quotepath=off
+init.defaultbranch=main
